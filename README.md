@@ -1,27 +1,33 @@
-# 📇 Awesome Personal CRM & Contact Management
+# 📇 Awesome Personal CRM & Contact Management Ecosystem 🤝
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Personal-CRM-Contact-Management"><img src="https://img.shields.io/badge/Awesome-Personal%20CRM-blueviolet?style=for-the-badge&logo=github" alt="Awesome Personal CRM"/></a>
+  <img src="assets/banner.svg" alt="Awesome Personal CRM and Contact Management Ecosystem" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Personal-CRM-Contact-Management"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Personal-CRM-Contact-Management?style=social" alt="GitHub Repo Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Personal-CRM-Contact-Management/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Personal-CRM-Contact-Management?style=social" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Personal-CRM-Contact-Management/graphs/contributors"><img src="https://img.shields.io/badge/Contributors-Welcome-brightgreen.svg?style=flat-square" alt="Contributors"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Personal-CRM-Contact-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
-> **A curated, comprehensive directory of Personal Relationship Managers (PRMs), Contact Management Systems (CMS), CardDAV/vCard sync engines, network intelligence platforms, and self-hosted open-source address books for founders, networkers, knowledge workers, and privacy advocates.**
+> **✨ A curated, comprehensive directory of Personal Relationship Managers (PRMs), Contact Management Systems (CMS), CardDAV/vCard sync engines, network intelligence platforms, and self-hosted open-source address books for founders, networkers, knowledge workers, and privacy advocates.**
 
 ---
 
 ## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS & Hosted Personal CRM Platforms](#-saas--hosted-personal-crm-platforms)
-- [Open-Source GitHub Projects](#-open-source-github-projects)
-- [CardDAV, Contact Sync & CLI Tooling](#-carddav-contact-sync--cli-tooling)
-- [How to Choose a Personal CRM Stack](#-how-to-choose-a-personal-crm-stack)
-- [How to Contribute](#-how-to-contribute)
-- [Support & Sponsoring](#-support--sponsoring)
-- [Disclaimer](#-disclaimer)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS & Hosted Personal CRM Platforms](#-saas--hosted-personal-crm-platforms)
+- [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
+- [🔄 CardDAV, Contact Sync & CLI Tooling](#-carddav-contact-sync--cli-tooling)
+- [🎯 How to Choose a Personal CRM Stack](#-how-to-choose-a-personal-crm-stack)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
@@ -37,7 +43,7 @@ Unlike the traditional enterprise CRM industry (which is concentrated among mega
 
 The following SaaS and cloud-hosted solutions are sorted by **Company Valuation / Market Cap (descending)**. Each product features specific starting tier prices and exact free tier or free trial limits.
 
-| Product | Valuation / Revenue Scale | Starting Pricing Tier | Free Tier Limits / Free Trial Policy | Key Focus & Capabilities |
+| 🏢 Product | 💰 Valuation / Revenue Scale | 🏷️ Starting Pricing Tier | 🎁 Free Tier Limits / Free Trial Policy | 🚀 Key Focus & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[HubSpot](https://hubspot.com)** | **~$28B Market Cap** *(Public: HUBS, ~$3.1B ARR)* | **$15/user/month** (Starter tier billed annually, or $20/month billed monthly) | **Free forever plan**: Limited to **1,000 contacts**, up to 2 user seats, 1 deal pipeline, and 2,000 branded marketing emails/month. | Omnichannel inbound CRM, contact timeline tracking, meeting scheduler, document tracking, and sales pipelines. |
 | **[Notion](https://notion.so)** | **$11B Valuation** *(~$600M ARR)* | **$10/user/month** (Plus tier billed annually, or $12/month billed monthly) | **Free forever plan**: **Unlimited blocks** for individual users (capped at **1,000 blocks** across shared workspaces), 5 MB file upload limit, up to 10 page guests, and 7-day page history. | Highly flexible relational databases, personal CRM templates, keep-in-touch cadence formulas, and cross-linked notes. |
@@ -55,7 +61,7 @@ The following SaaS and cloud-hosted solutions are sorted by **Company Valuation 
 
 The following open-source Personal CRMs, contact databases, and modular PRM platforms are sorted by **GitHub Stars (descending)**. Each badge links directly to that repository's stargazers page.
 
-| Repository | Stars | Description & Architecture |
+| 📦 Repository | ⭐ Stars | 📝 Description & Architecture |
 | :--- | :--- | :--- |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Open-source Flutter & Rust collaborative workspace and Notion alternative; ideal for building custom local-first Personal CRM boards, interaction tables, and contact journals. |
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![NocoDB Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | Open-source Airtable alternative that turns any relational database (PostgreSQL, MySQL, SQLite) into an interactive smart spreadsheet for personal contact databases and CRM views. |
@@ -114,7 +120,7 @@ Building a resilient, sovereign personal address book often requires combining p
 
 ## 🎯 How to Choose a Personal CRM Stack
 
-| Use Case | Recommended Architecture | Key Advantages |
+| 🎯 Use Case | 🏗️ Recommended Architecture | 💡 Key Advantages |
 | :--- | :--- | :--- |
 | **Founders & Seed Fundraising** | **Clay** or **Affinity** | Automated network mapping, social enrichment, and warm introduction path tracking. |
 | **Solopreneurs & Consultants** | **Capsule CRM** or **Folk** | Simple pipeline tracking, interaction logging, and multi-channel outreach. |
@@ -145,17 +151,17 @@ We actively welcome contributions from software developers, designers, self-host
 
 ## 💖 Support & Sponsoring
 
-If this curated directory saved you research hours or helps you organize your professional and personal network, please consider supporting the project:
+A huge thank you to everyone exploring, using, and contributing to this directory! If this curated collection saved you research hours, helped you organize your personal and professional relationships, or inspired your self-hosted setup, please consider supporting the project:
 
-- ⭐ **Star this repository** to improve visibility for the open-source community.
-- 🍴 **Fork and share** with founders, networkers, and self-hosters.
-- ☕ **Support the maintainer**: Sponsor ongoing directory maintenance directly on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star this repository** to improve discoverability for other founders and self-hosters.
+- 🍴 **Fork and share** with your network, team, or community.
+- ☕ **Buy me a coffee**: Support ongoing directory maintenance and updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
-## 📈 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Personal-CRM-Contact-Management&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Personal-CRM-Contact-Management&Date)
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Personal-CRM-Contact-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Personal-CRM-Contact-Management&type=date&legend=top-left)`
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Personal-CRM-Contact-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Personal-CRM-Contact-Management&type=date&legend=top-left)`
 
 ---
 
