@@ -59,9 +59,9 @@ The following SaaS and cloud-hosted solutions are sorted by **Company Valuation 
 
 ## 🛠️ Open-Source GitHub Projects
 
-The following open-source Personal CRMs, contact databases, and modular PRM platforms are sorted by **GitHub Stars (descending)**. Each badge links directly to that repository's stargazers page.
+The following open-source Personal CRMs, contact databases, and modular PRM platforms are sorted by **GitHub_Stars (descending)**. Each badge links directly to that repository's stargazers page.
 
-| 📦 Repository | ⭐ Stars | 📝 Description & Architecture |
+| 📦 Repository | ⭐ GitHub_Stars | 📝 Description & Architecture |
 | :--- | :--- | :--- |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![AppFlowy Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | Open-source Flutter & Rust collaborative workspace and Notion alternative; ideal for building custom local-first Personal CRM boards, interaction tables, and contact journals. |
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![NocoDB Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | Open-source Airtable alternative that turns any relational database (PostgreSQL, MySQL, SQLite) into an interactive smart spreadsheet for personal contact databases and CRM views. |
@@ -141,10 +141,10 @@ We actively welcome contributions from software developers, designers, self-host
    ```
 3. **Add or update an entry** in `README.md` respecting our table format:
    - **For SaaS**: Name, website URL, company valuation/revenue scale, specific starting tier price, specific free tier limits or free trial terms, and capability overview.
-   - **For Open-Source**: Repository link, stargazers star badge (`style=social` and `color=white`), and an architectural summary.
+   - **For Open-Source**: Repository link, stargazers Stars_Badge (`style=social` and `color=white`), and an architectural summary.
 4. **Sort your entry correctly**:
    - SaaS platforms are sorted by **Valuation / Market Cap descending**.
-   - Open-source platforms are sorted by **GitHub Stars descending**.
+   - Open-source platforms are sorted by **GitHub_Stars descending**.
 5. **Commit and submit a Pull Request** with a concise description of your additions.
 
 ---
